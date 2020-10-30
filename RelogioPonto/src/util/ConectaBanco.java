@@ -5,6 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import javax.swing.JOptionPane;
 
 public class ConectaBanco {
 
@@ -23,6 +24,7 @@ public class ConectaBanco {
             conn = DriverManager.getConnection(path, user, pass);
         } catch (SQLException e) {
             System.out.println("Error: " + e);
+            JOptionPane.showMessageDialog(null, "Não foi possível conectar ao banco.");
         }
     }
 
@@ -40,6 +42,7 @@ public class ConectaBanco {
             rs = stm.executeQuery(SQL);
         } catch (Exception e) {
             System.out.println("Error: " + e);
+            JOptionPane.showMessageDialog(null, "SQL Error: " + e);
         }
     }
 }
