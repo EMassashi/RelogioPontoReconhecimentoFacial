@@ -6,6 +6,8 @@
 - Reconhecimento facial para identificação.
 
 # Como usar o reconhecimento facial
+- Baixar o opencv para java: https://github.com/bytedeco/javacv/releases.
+- Extrair o zip para C:\.
 - Baixar o projeto e o SQL do banco de dados.
 - Criar o banco no MySQL.
 - Instalar JDK 14.
