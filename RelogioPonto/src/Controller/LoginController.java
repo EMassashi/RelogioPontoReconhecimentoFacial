@@ -1,8 +1,8 @@
-package Controller;
+package controller;
 
-import View.Login;
-import View.MenuAdmin;
-import View.MenuUser;
+import view.Login;
+import view.MenuAdmin;
+import view.MenuUser;
 import java.awt.Color;
 import javax.swing.JComboBox;
 import javax.swing.JLabel;
