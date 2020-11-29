@@ -409,7 +409,7 @@ public class RegisterFace extends javax.swing.JDialog {
                                         if (sample <= numSamples) {
 //                                        salva a imagem cortada [160,160]
 //                                        nome do arquivo: idpessoa + a contagem de fotos. ex: person.10(id).6(sexta foto).jpg
-                                            String cropped = "./../Facial-Recognition/src/files/Images/person." + txt_id_label.getText() + "." + sample + ".jpg";
+                                            String cropped = "./../RelogioPonto/src/files/Images/person." + txt_id_label.getText() + "." + sample + ".jpg";
                                             imwrite(cropped, face);
 
                                             //System.out.println("Foto " + amostra + " capturada\n");

@@ -2,6 +2,14 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/E:/Users/Massashi/Documents/NetBeansProjects/RelogioPontoReconhecimentoFacial/RelogioPonto/src/view/RegisterFace.java</file>
+            <file>file:/E:/Users/Massashi/Documents/NetBeansProjects/RelogioPontoReconhecimentoFacial/RelogioPonto/src/model/ModelPerson.java</file>
+            <file>file:/E:/Users/Massashi/Documents/NetBeansProjects/RelogioPontoReconhecimentoFacial/RelogioPonto/src/util/FillCombo.java</file>
+            <file>file:/E:/Users/Massashi/Documents/NetBeansProjects/RelogioPontoReconhecimentoFacial/RelogioPonto/src/util/CustomCombo.java</file>
+            <file>file:/E:/Users/Massashi/Documents/NetBeansProjects/RelogioPontoReconhecimentoFacial/RelogioPonto/src/model/ModelTable.java</file>
+            <file>file:/E:/Users/Massashi/Documents/NetBeansProjects/RelogioPontoReconhecimentoFacial/RelogioPonto/src/util/TrainLBPH.java</file>
+            <file>file:/E:/Users/Massashi/Documents/NetBeansProjects/RelogioPontoReconhecimentoFacial/RelogioPonto/src/util/ConectaBanco.java</file>
+        </group>
     </open-files>
 </project-private>
