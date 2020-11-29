@@ -20,7 +20,7 @@ This project is a simple punch clock that uses facial recognition as ID method. 
 - Open the [project folder](https://github.com/EMassashi/RelogioPontoReconhecimentoFacial/tree/master/RelogioPonto) on the [NetBeans IDE](https://netbeans.apache.org/download/index.html).
 
 ## Usage
-- Insert admin credentials in the database for the login:
+- Insert admin credentials in the database for the login. Example:
 
 ```sql
 USE facerecognition
