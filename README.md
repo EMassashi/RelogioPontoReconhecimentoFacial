@@ -3,7 +3,7 @@
 This project is a simple punch clock that uses facial recognition as ID method. Developed by the student Elton Massashi Takeuchi in the subject of Design and Development of Sowftware, in System Analysis and Development course from Universidade São Francisco (USF).
 
 ## Preview
-<img src=".\RelogioPonto\src\Images\login_screen.png" height="240"> <img src=".\RelogioPonto\src\Images\register_face.png" height="240"> <img src=".\RelogioPonto\src\Images\recognize_face.png" height="240"> <img src=".\RelogioPonto\src\Images\records.png" height="240">
+<img src=".\RelogioPonto\src\Images\login_screen.png" height="440"> <img src=".\RelogioPonto\src\Images\register_face.png" height="440"> <img src=".\RelogioPonto\src\Images\recognize_face.png" height="440"> <img src=".\RelogioPonto\src\Images\records.png" height="440">
 
 
 ## Feature
