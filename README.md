@@ -1,5 +1,5 @@
 # Relogio de Ponto de reconhecimento facial
-- Projeto desenvolvido em Java com uso de bibliotecas próprias da linguagem e OpenCV.
+- Elton Massashi Takeuchi, aluno da Universidade São Francisco cursando último semestre no curso Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 # Feature
 - Cadastro de pessoas.
@@ -9,7 +9,7 @@
 - Baixar o opencv para java: https://github.com/bytedeco/javacv/releases.
 - Extrair o zip para C:\.
 - Baixar o projeto e o SQL do banco de dados.
-- Criar o banco no MySQL.
+- Criar o banco no MySQL com o arquivo.
 - Instalar JDK 14.
 - Abrir em uma IDE o projeto.
 - Rodar o arquivo de registro e cadastrar.
