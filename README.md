@@ -32,13 +32,16 @@ VALUES ("user", "pass", 1)
 - Login with the created credentials.
 - Choose the register option from the menu:
 <img src=".\RelogioPonto\src\Images\icons8_Add_User_Group_Woman_Man_25px.png" width="40">
+
 - Fill the information about the person on the right side of the panel.
 - Afterwards click or hold down the finish button while the camera on the left side of the panel is recognizing a face (the rectangle on the face means it is recognizing).
 - To recognize the person just registered just click on the recognize option from the menu:
 <img src=".\RelogioPonto\src\Images\icons8_Facial_Recognition_25px_1.png" width="40">
+
 - If the program works it will have the rectangle on the face of the person in the camera on the left side of the panel and the data of the person on the right side of the panel with the respective labels. If you want to punch the clock just click the OK button if the data matches with the person on the camera.
 - To see the records just choose the option from the menu:
 <img src=".\RelogioPonto\src\Images\icons8_Folder_25px.png" width="40">
+
 - To edit people data just choose the edit option from the menu:
 <img src=".\RelogioPonto\src\Images\icons8_Add_User_Male_20px_2.png" width="40">
 
