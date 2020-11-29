@@ -3,7 +3,7 @@
 This project is a simple punch clock that uses facial recognition as ID method. Developed by the student Elton Massashi Takeuchi in the subject of Design and Development of Sowftware, in System Analysis and Development course from Universidade São Francisco (USF).
 
 ## Preview
-<img src=".\RelogioPonto\src\Images\login_screen.png" width="240"> <img src=".\RelogioPonto\src\Images\register_face.png" width="240"> <img src=".\RelogioPonto\src\Images\recognize_face.png" width="240"> <img src=".\RelogioPonto\src\Images\records.png" width="240">
+<img src=".\RelogioPonto\src\Images\login_screen.png" height="240"> <img src=".\RelogioPonto\src\Images\register_face.png" height="240"> <img src=".\RelogioPonto\src\Images\recognize_face.png" height="240"> <img src=".\RelogioPonto\src\Images\records.png" height="240">
 
 
 ## Feature
@@ -31,7 +31,7 @@ VALUES ("user", "pass", 1)
 - Run the project or run the view.Login class file.
 - Login with the created credentials.
 - Choose the register option from the menu:
-<img src=".\RelogioPonto\src\Images\Imagesicons8_Add_User_Group_Woman_Man_25px.png" width="40">
+<img src=".\RelogioPonto\src\Images\icons8_Add_User_Group_Woman_Man_25px.png" width="40">
 - Fill the information about the person on the right side of the panel.
 - Afterwards click or hold down the finish button while the camera on the left side of the panel is recognizing a face (the rectangle on the face means it is recognizing).
 - To recognize the person just registered just click on the recognize option from the menu:
