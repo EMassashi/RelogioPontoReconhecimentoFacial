@@ -97,7 +97,7 @@ public class MenuAdmin extends javax.swing.JFrame {
             }
         });
 
-        jButton6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/icons8_Folder_25px.png"))); // NOI18N
+        jButton6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Images/icons8_Add_User_Male_20px_2.png"))); // NOI18N
         jButton6.setToolTipText("Data");
         jButton6.setContentAreaFilled(false);
         jButton6.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
