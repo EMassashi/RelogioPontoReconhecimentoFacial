@@ -1,23 +1,50 @@
-# Punch Clock
+# Punch Clock: Facial Recognition Time Clock
 
-This project is a simple punch clock that uses facial recognition as ID method. Developed by the student Elton Massashi Takeuchi in the subject of Design and Development of Sowftware, in System Analysis and Development course from Universidade São Francisco (USF).
+A simple punch clock application that leverages facial recognition for user identification. Developed by Elton Massashi Takeuchi as part of the "Design and Development of Software" course in the System Analysis and Development program at Universidade São Francisco (USF).
+
+## Table of Contents
+
+- [Preview](#preview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
 
 ## Preview
-<img src=".\RelogioPonto\src\Images\login_screen.png" height="440"> <img src=".\RelogioPonto\src\Images\register_face.png" height="440"> <img src=".\RelogioPonto\src\Images\recognize_face.png" height="440"> <img src=".\RelogioPonto\src\Images\records.png" height="440">
 
+Explore the application's screens:
 
-## Feature
-* Uses facial recognition as ID method.
-* Detects and register people with the respective data.
-* Detects and identify people from the database.
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./RelogioPonto/src/Images/login_screen.png" height="440" alt="Login Screen">
+  <img src="./RelogioPonto/src/Images/register_face.png" height="440" alt="Register Face">
+  <img src="./RelogioPonto/src/Images/recognize_face.png" height="440" alt="Recognize Face">
+  <img src="./RelogioPonto/src/Images/records.png" height="440" alt="Records">
+</div>
 
+## Features
+
+- **Facial Recognition:** Uses facial recognition as the primary identification method.
+- **User Registration:** Detects and registers new users with their associated data.
+- **User Identification:** Identifies registered users by comparing against the database.
+  
 ## Installation
 
-- Download and install [JRE 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html).
-- Download and install [JDK 14](https://jdk.java.net/archive/).
-- Download [JavaCV 1.5.4](https://github.com/bytedeco/javacv/releases) and extract to the root of the system (example: C:\javacv-bin).
-- Clone the repository and create the database schema in [MySQL](https://dev.mysql.com/downloads/) using the [SQL Script file](https://github.com/EMassashi/RelogioPontoReconhecimentoFacial/blob/master/SQL%20Script.sql).
-- Open the [project folder](https://github.com/EMassashi/RelogioPontoReconhecimentoFacial/tree/master/RelogioPonto) on the [NetBeans IDE](https://netbeans.apache.org/download/index.html).
+Follow these steps to set up the project:
+
+1. **Install Java:**
+   - [JRE 8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html)
+   - [JDK 14](https://jdk.java.net/archive/)
+
+2. **Set Up JavaCV:**
+   - Download [JavaCV 1.5.4](https://github.com/bytedeco/javacv/releases)
+   - Extract it to a folder (e.g., `C:\javacv-bin`).
+
+3. **Clone Repository and Set Up Database:**
+   - Clone the repository.
+   - Create the database schema in [MySQL](https://dev.mysql.com/downloads/) using the [SQL Script](https://github.com/EMassashi/RelogioPontoReconhecimentoFacial/blob/master/SQL%20Script.sql).
+
+4. **Open the Project:**
+   - Open the project folder (located in the `RelogioPonto` directory) using the [NetBeans IDE](https://netbeans.apache.org/download/index.html).
 
 ## Usage
 - Insert admin credentials in the database for the login. Example:
